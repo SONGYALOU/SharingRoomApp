@@ -1,2 +1,2 @@
 # SharingRoomApp
-This is the the project of the teacher Qiu.
+This is the project of the teacher Qiu.
